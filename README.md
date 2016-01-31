@@ -1,4 +1,4 @@
-# Rubyroid Labs Course Домашка 2-1
+# Task at Rubyroid Labs Course
 
 Необходимо написать утилиту `gemfiler`, которая будет показывать отфильтрованные версии гемов. 
 
